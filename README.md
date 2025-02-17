@@ -6,4 +6,5 @@ This Power BI dashboard provides interactive visualizations and real-time insigh
 - <a href="https://github.com/ShreyasUke/Data-Analysis-Dashboard/blob/main/Project%20Dashboard.pbix">Dashboard</a>
 
 ##Dashboard
-"C:\Users\ukesh\Downloads\Powerpoint Project SS.png"
+![Powerpoint Project SS](https://github.com/user-attachments/assets/e27303fa-5b6a-4ab1-a533-4e8035257e65)
+
